@@ -36,21 +36,21 @@ const giorgi = {
 
 ---
 
-### 📊 GitHub Metrics
-
-<div align="center">
-
-<img src="./assets/metrics.svg" alt="GitHub Metrics" />
-
-</div>
-
----
-
 ### 🔥 Contribution Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=GiorgiKemo&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 📊 GitHub Metrics
+
+<div align="center">
+
+<img src="./assets/metrics.svg" alt="GitHub Metrics" />
 
 </div>
 
