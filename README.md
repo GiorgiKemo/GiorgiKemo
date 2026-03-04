@@ -17,7 +17,7 @@ const giorgi = {
   location: "Georgia 🇬🇪",
   role: "Full-Stack Developer",
   obsession: "Perfection in every pixel & every endpoint",
-  currentlyBuilding: "Georgian Dating Platform — Sulis Metskvile 💜",
+  currentlyBuilding: "CDL Jobs Center",
   askMeAbout: ["React", "Next.js", "TypeScript", "Supabase", "Web3"],
 };
 ```
