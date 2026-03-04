@@ -40,9 +40,9 @@ const giorgi = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiorgiKemo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiorgiKemo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgiKemo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgiKemo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -52,7 +52,7 @@ const giorgi = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=GiorgiKemo&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=GiorgiKemo&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -72,7 +72,7 @@ const giorgi = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GiorgiKemo&bg_color=0D1117&color=6E40C9&line=6E40C9&point=C9D1D9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GiorgiKemo&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
