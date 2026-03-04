@@ -36,13 +36,11 @@ const giorgi = {
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiorgiKemo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgiKemo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img src="./assets/metrics.svg" alt="GitHub Metrics" />
 
 </div>
 
@@ -62,7 +60,7 @@ const giorgi = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GiorgiKemo&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=GiorgiKemo&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
 
