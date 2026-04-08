@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 39 repositories
+                            Contributed to 40 repositories
                         </div>
                     </section>
                 </div>
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            6 Pull requests opened
+                            7 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="263.5269271970894" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="263.5269271970894" y="0" width="139.34973804207732" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="402.8766652391667" y="0" width="21.03845882761722" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="423.9151240667839" y="0" width="19.767755784569236" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="443.68287985135316" y="0" width="13.7345233379758" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.417403189329" y="0" width="2.3427994854405307" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.7602026747695" y="0" width="0.17831933929970614" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="459.9385220140692" y="0" width="0.061477985930813106" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="263.5329803642712" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="263.5329803642712" y="0" width="139.34544479593887" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="402.8784251602101" y="0" width="21.037810650710757" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="423.91623581092085" y="0" width="19.76714675693574" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="443.6833825678566" y="0" width="13.734100189069224" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="457.41748275692584" y="0" width="2.3427273057939426" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.7602100627198" y="0" width="0.178313845433513" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="459.93852390815334" y="0" width="0.06147609184669493" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
