@@ -40,7 +40,7 @@ const giorgi = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=GiorgiKemo&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=GiorgiKemo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
