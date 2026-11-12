@@ -73,6 +73,16 @@ const giorgiKemoklidze = {
 
 ---
 
+---
+
+### 🎓 Education & Certifications
+
+* **IT Academy Step Georgia** — *Front-End Web Development* (Certificate · Grade: 12 / 12)
+* **Meta** — *Advanced React & React Basics* (Certified)
+* **freeCodeCamp** — *Responsive Web Design* (Certified)
+* **Udemy** — *The Complete JavaScript Course*
+* **Public School №43 Titsian Tabidze** — *High School Diploma*
+
 ### 🔥 GitHub Stats & Activity
 
 <div align="center">
