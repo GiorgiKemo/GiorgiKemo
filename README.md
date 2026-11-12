@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer & Software Engineer | React · Next.js · TypeScript · Supabase · PostgreSQL
 
-📍 **Tbilisi, Georgia** · 🌐 **[giorgi.codes](https://giorgi.codes)** · 💼 **[LinkedIn](https://www.linkedin.com/in/giorgi-kemoklidze)** · 🐦 **[X / Twitter](https://x.com/GiorgiKem)** · ✉️ **[contact@giorgi.codes](mailto:contact@giorgi.codes)**
+📍 **Tbilisi, Georgia** · 🌐 **[giorgi.codes](https://giorgi.codes)** · 💼 **[LinkedIn](https://www.linkedin.com/in/giorgi-kemoklidze)** · ✉️ **[contact@giorgi.codes](mailto:contact@giorgi.codes)**
 
 ---
 
