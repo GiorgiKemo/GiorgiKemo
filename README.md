@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Giorgi+Kemoklidze+%7C+Full-Stack+Developer;Building+Production+Web+Apps+%26+AI+Tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Giorgi+Kemoklidze+%7C+Full-Stack+Developer;Founder+of+ResumeATS.cv;Building+Production+Web+Apps+%26+AI+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -20,7 +20,10 @@
 
 ### 👨‍💻 About Me
 
-Full-Stack Developer with **3+ years of experience** architecting concurrent B2B platforms, multi-tenant SaaS systems, AI-powered applications, and interactive 3D web experiences. 
+Full-Stack Developer and Software Engineer with **3+ years of experience** architecting concurrent B2B contract platforms, multi-tenant SaaS systems, AI-powered applications, and interactive 3D web experiences.
+
+* **Founder of [ResumeATS.cv](https://www.resumeats.cv/)** — An AI-assisted, ATS-friendly resume builder and career platform.
+* **Lead Product Engineer for client platforms** — Including nationwide recruitment marketplace **[CDL Jobs Center](https://cdljobscenter.com/)** and enterprise 3D property explorer **[AiXESS / AIXCO Global](https://aixess.global/)**.
 
 I own end-to-end production architecture: from database schema and Row-Level Security (RLS) to Stripe subscription billing, real-time messaging, WebRTC audio/telephony, edge compute, and technical SEO with 95+ Core Web Vitals.
 
@@ -29,9 +32,10 @@ const giorgiKemoklidze = {
   name: "Giorgi Kemoklidze",
   location: "Tbilisi, Georgia 🇬🇪",
   role: "Full-Stack Developer & Software Engineer",
+  founderOf: "ResumeATS.cv (https://www.resumeats.cv)",
   portfolio: "https://giorgi.codes",
   coreStack: ["React", "Next.js", "TypeScript", "Node.js", "Supabase", "PostgreSQL"],
-  currentlyBuilding: "CDL Jobs Center & ResumeATS.cv",
+  currentlyBuilding: "ResumeATS.cv & client platforms",
 };
 ```
 
@@ -39,17 +43,17 @@ const giorgiKemoklidze = {
 
 ### 🚀 Featured Products & Shipped Projects
 
-* **[ResumeATS.cv](https://www.resumeats.cv/)** — *AI-Powered ATS Resume Builder (SaaS)*  
+* **[ResumeATS.cv](https://www.resumeats.cv/)** — *Founder & Lead Engineer | AI-Powered ATS Resume Builder (SaaS)*  
   Modern web platform helping job seekers craft ATS-optimized resumes. Features real-time ATS scoring, clean ATS-safe templates, Stripe subscription billing, Supabase Edge Functions, PostgreSQL RLS, and automated multilingual PDF/DOCX document export.
-* **[CDL Jobs Center](https://cdljobscenter.com/)** — *Recruitment Marketplace for US Trucking*  
-  Nationwide hiring platform connecting commercial truck drivers and carriers. Built with Next.js, React, TypeScript, TanStack Query, Supabase (PostgreSQL), AI semantic fit-scoring with vector embeddings, and Stripe Checkout.
-* **[AiXESS / AIXCO Global](https://aixess.global/)** — *Interactive 3D WebGL Property Explorer*  
+* **[CDL Jobs Center](https://cdljobscenter.com/)** — *Lead Product Engineer (B2B Contract) | Nationwide US Trucking Marketplace*  
+  Nationwide hiring platform connecting commercial truck drivers and carriers. Architected with Next.js, React, TypeScript, TanStack Query, Supabase (PostgreSQL), AI semantic fit-scoring with vector embeddings, Twilio SMS queues, and Stripe Checkout.
+* **[AiXESS / AIXCO Global](https://aixess.global/)** — *Full-Stack & 3D Web Developer | Interactive 3D WebGL Property Explorer*  
   Architectural real-estate sales engine built with PlayCanvas WebGL, Next.js, and Cloudflare Workers/D1 with procedural Blender asset pipelines optimized for 60 FPS browser rendering.
-* **[Solence Energy](https://giorgi.codes/work/solence-energy/)** — *Investor Data Room & Corporate Portal*  
+* **[Solence Energy](https://giorgi.codes/work/solence-energy/)** — *Full-Stack Developer | Investor Data Room & Corporate Portal*  
   Corporate platform with secure partner data room, folder-level RBAC permissions, automated contract generation, and an Electron companion desktop uploader.
-* **[Reachline CRM](https://giorgi.codes/work/mlc-crm/)** — *WebRTC Browser Telephony & Sales Workspace*  
+* **[Reachline CRM](https://giorgi.codes/work/mlc-crm/)** — *Full-Stack Developer | WebRTC Browser Telephony & Sales Workspace*  
   Browser-based CRM and calling platform built with React, TypeScript, Telnyx WebRTC, Cloudflare D1, Hono, and AI call transcription and analysis.
-* **[Maiseli Winery](https://giorgi.codes/work/maiseli-winery/)** — *Commercial Brand Web System*  
+* **[Maiseli Winery](https://giorgi.codes/work/maiseli-winery/)** — *Full-Stack Developer | Commercial Brand Web System*  
   High-performance multilingual e-commerce and showcase platform built in Next.js and Tailwind CSS.
 
 ---
