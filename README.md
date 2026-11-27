@@ -73,8 +73,6 @@ const giorgiKemoklidze = {
 
 ---
 
----
-
 ### 🎓 Education & Certifications
 
 * **IT Academy Step Georgia** — *Front-End Web Development* (Certificate · Grade: 12 / 12)
